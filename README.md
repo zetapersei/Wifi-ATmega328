@@ -3,6 +3,7 @@
 
 ##### The board hardware include one esp8266, one AtMega328P together power unit 12-5 vcc -> 3.3V.
 ##### A Kicad project are available in the hardware folder.
+##### Atmega 328 will be programmed by ICSP connector.
 #### Board Top view: 
 ![top board](/hardware/RIO-Mega-328-top.jpg)
 
