@@ -5,7 +5,7 @@
 ##### A Kicad project are available in the hardware folder.
 ##### Atmega 328 will be programmed by ICSP connector.
 #### Software:
-> ##### can be used the AT firmware in the esp8266 and the [WiFiEspAT library](https://github.com/jandrassy/WiFiEspAT.git)
+> ##### can be used the AT firmware  (loaded in the esp8266) and the [WiFiEspAT library](https://github.com/jandrassy/WiFiEspAT.git)
 #### Board Top view: 
 ![top board](/hardware/RIO-Mega-328-top.jpg)
 
