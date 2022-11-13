@@ -6,6 +6,7 @@
 ##### Atmega 328 will be programmed by ICSP connector.
 #### Software:
 > ##### can be used the AT firmware  (loaded in the esp8266) and the [WiFiEspAT library](https://github.com/jandrassy/WiFiEspAT.git)
+> ##### try to use with the [WiFiESPNow library](https://github.com/yoursunny/WifiEspNow) running in the esp8266 and manage with the ATMega328
 #### Board Top view: 
 ![top board](/hardware/RIO-Mega-328-top.jpg)
 
